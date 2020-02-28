@@ -3,4 +3,9 @@ public class WithJina {
 	public static void main(String[] args) {
 	System.out.println("진아야 다 잘 될거야");
 	}
+	
+	public static void main(String[] args) {
+	System.out.println("흑흑 감사합니다");
+	}
+
 }
