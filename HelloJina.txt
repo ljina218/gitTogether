@@ -2,6 +2,8 @@ public class WithJina {
 
 	public static void main(String[] args) {
 	System.out.println("진아야 다 잘 될거야");
+
+	System.out.println("진아야 Git은 까탈스럽구나 이건 나의 두번째 메세지");
 	}
 	
 	public static void main(String[] args) {
